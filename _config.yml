@@ -66,11 +66,11 @@ avatar: "https://media.licdn.com/dms/image/D5603AQF6CdCFHtaMQg/profile-displayph
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
-  - xing:
-      name: Xing
-      show: false
-      href: https://www.xing.com/profile/YOUR_XING_USERNAME/
-      icon: fab fa-xing
+  - resume:
+      name: Resume
+      show: show
+      href: /images/Resume.pdf
+      icon: fab fa-solid fa-file-user
   - linkedin:
       name: LinkedIn
       show: true
@@ -181,7 +181,7 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    Boosting business outcomes with AI-enabled products
+
 
 #EOF
