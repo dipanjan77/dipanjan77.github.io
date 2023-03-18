@@ -83,7 +83,7 @@ links:
       icon: fab fa-google-plus
   - twitter:
       name: Twitter
-      show: true
+      show: false
       href: https://twitter.com/dipanjan77
       icon: fab fa-twitter
   - weibo:
@@ -133,7 +133,7 @@ links:
       icon: fab fa-lastfm
   - github:
       name: GitHub
-      show: true
+      show: false
       href: https://github.com/dipanjan77
       icon: fab fa-github
   - codepen:
@@ -181,7 +181,7 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    <p>Boosting business outcomes with AI-enabled products</p>
+    <h2><p>Boosting business outcomes with AI-enabled products</p><h2>
 
     <p>I am a product management leader with over 20 years of experience in the software industry. 
     I have expertise in Artificial Intelligence & Machine Learning, Cloud Native Architecture, 
