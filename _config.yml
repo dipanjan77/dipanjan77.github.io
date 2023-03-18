@@ -181,7 +181,7 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    <h2><p>Boosting business outcomes with AI-enabled products</p><h2>
+    <h3><p>Boosting business outcomes with AI-enabled products</p></h3>
 
     <p>I am a product management leader with over 20 years of experience in the software industry. 
     I have expertise in Artificial Intelligence & Machine Learning, Cloud Native Architecture, 
