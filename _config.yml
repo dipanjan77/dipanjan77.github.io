@@ -70,7 +70,7 @@ links:
       name: Resume
       show: show
       href: /fuse-core/images/Resume.pdf
-      icon: fas fa-file-pdf
+      icon: fas fa-solid fa-file-pdf
   - linkedin:
       name: LinkedIn
       show: true
@@ -183,5 +183,6 @@ links:
 extra_html: >
     Boosting business outcomes with AI-enabled products
 
+    I am a product management leader with over 20 years of experience in the software industry. I have expertise in Artificial Intelligence & Machine Learning, Cloud Native Architecture, Agile Methodologies and Software Design. I adept at leading and motivating multi-functional teams. I have been an influential communicator with strong presentation and negotiation skills.
 
 #EOF
