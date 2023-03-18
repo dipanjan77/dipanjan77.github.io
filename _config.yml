@@ -70,7 +70,7 @@ links:
       name: Resume
       show: show
       href: /fuse-core/images/Resume.pdf
-      icon: fab fa-file-pdf
+      icon: fas fa-file-pdf
   - linkedin:
       name: LinkedIn
       show: true
