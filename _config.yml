@@ -69,7 +69,7 @@ links:
   - resume:
       name: Resume
       show: show
-      href: /fuse-core/images/Resume.pdf
+      href: /images/Resume.pdf
       icon: fas fa-solid fa-file-pdf
   - linkedin:
       name: LinkedIn
