@@ -28,7 +28,7 @@ robots:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://dipanjan77.github.io/fuse-core/
+url: https://dipanjan77.github.io/
 
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
@@ -58,8 +58,8 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://media.licdn.com/dms/image/D5603AQF6CdCFHtaMQg/profile-displayphoto-shrink_400_400/0/1677731770438?e=1684368000&v=beta&t=h-F6k-H_LNCCZ7n0mJGmsnfEhFi-_c0pFj3ZecMZYnY"
-#avatar: "images/jonathan_doe.jpg"
+#avatar: "https://media.licdn.com/dms/image/D5603AQF6CdCFHtaMQg/profile-displayphoto-shrink_400_400/0/1677731770438?e=1684368000&v=beta&t=h-F6k-H_LNCCZ7n0mJGmsnfEhFi-_c0pFj3ZecMZYnY"
+avatar: "https://media.licdn.com/dms/image/D5603AQHPtEj7hAZlpg/profile-displayphoto-shrink_400_400/0/1679441161387?e=1684972800&v=beta&t=kiSnbdJ8BECpf-WZhJQ2g_OCdkp1kUMl9jbtGJ1oYJw"
 #avatar:
 
 
