@@ -183,11 +183,12 @@ links:
 extra_html: >
     <h3><p>Boosting business outcomes with AI-enabled products</p></h3>
 
-    <p>I am a product management leader with over 20 years of experience in the software industry. 
-    I have expertise in Artificial Intelligence & Machine Learning, Cloud Native Architecture, 
-    Agile Methodologies and Software Design. I am adept at leading and motivating multi-functional teams. 
-    I have been an influential communicator with strong presentation and negotiation skills.
+    <p>I am a Product Leader with a background in Machine Learning and Artificial Intelligence. 
+    I am passionate about building products that -
     <br>
-    I am passionate about creating products that are simple to use and bring great value to the business.</p>
+    - users want
+    - are simple to use
+    - brings great value to business
+    </p>
 
 #EOF
