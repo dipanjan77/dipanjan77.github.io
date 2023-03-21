@@ -17,7 +17,7 @@ name: Dipanjan Banik
 subtitle: Director of Product Management
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: Dipanjan Banik
+title: Dipanjan Banik | PM Leadership
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
@@ -184,6 +184,6 @@ extra_html: >
     <h3 class="fw-bold"><p>Boosting business outcomes with AI-enabled products</p></h3>
 
     <p>I am a Product Leader with a background in Machine Learning and Artificial Intelligence. 
-    I am passionate about building products that users want, are simple to use and brings great value to business.</p>
+    <br>I am passionate about building products that users want, are simple to use and brings great value to business.</p>
     
 #EOF
