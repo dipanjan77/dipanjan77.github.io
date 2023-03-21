@@ -3,9 +3,8 @@
 ---
 
 $fc-footer-height: 44px;
-@import url('https://fonts.googleapis.com/css?family=Qwigley');
 html, body {
-    font-family: 'Open Sans',Arial,Helvetica,sans-serif, 'Qwigley';
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
 }
 html {
     position: relative;
@@ -51,7 +50,6 @@ h1 {
         letter-spacing: 0;
     }
     font-size: 3em;
-    font-family: 'Qwigley';
 }
 h3 {
     font-size: 1.2em;
