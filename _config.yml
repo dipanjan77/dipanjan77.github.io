@@ -186,9 +186,11 @@ extra_html: >
     <p>I am a Product Leader with a background in Machine Learning and Artificial Intelligence. 
     I am passionate about building products that -
     <br>
-    - users want
-    - are simple to use
-    - brings great value to business
+    <ul>
+    <li>users want</li>
+    <li>are simple to use</li>
+    </li>brings great value to business</li>
+    </ul>
     </p>
 
 #EOF
