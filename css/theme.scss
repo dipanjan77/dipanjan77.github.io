@@ -75,6 +75,7 @@ div.row.links {
 
         @media (max-width: 575.98px) {
             /* used on bootstrap size 'xs' */
+            text-decoration: none;
             border-radius: 10px;
             width: 100%;
             text-align: center;
@@ -105,12 +106,13 @@ div.row.links {
 
 .fuse-core-extra {
     color: rgba(9, 9, 9, 1);
+    text-align: center;
 
     a {
         color: rgba(9, 9, 9, 1);
         border-radius: 3px;
         padding: 0 2px;
-
+        
         &:hover {
             color: white;
             text-decoration: none;
