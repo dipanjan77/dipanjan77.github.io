@@ -59,10 +59,11 @@ h3 {
 /* --------- The Main Links -------------------------------------------------------------------- */
 
 div.row.links {
-    > div {
+    >div {
         white-space: nowrap;
         padding: 0;
     }
+
     a {
         color: rgb(14, 82, 191);
         border-radius: 100%;
@@ -71,9 +72,13 @@ div.row.links {
         font-size: 1.8em;
         line-height: 1em;
         overflow: hidden;
-        @media (max-width: 575.98px) {  /* used on bootstrap size 'xs' */
+
+        @media (max-width: 575.98px) {
+            /* used on bootstrap size 'xs' */
             border-radius: 10px;
             width: 100%;
+            text-align: center;
+            padding: 5px 0;
         }
 
         &:hover {
@@ -84,11 +89,12 @@ div.row.links {
             background-color: rgba(0, 0, 0, 0.5);
         }
 
-        > i {
+        >i {
             display: inline-block;
             margin: 16px 12px;
         }
-        > span {
+
+        >span {
             margin-right: 15px;
         }
     }
