@@ -184,9 +184,9 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    <h3 class="fw-bold"><p>Boosting business outcomes with AI-enabled products</p></h3>
+    <h3 class="fw-bold"><p>AI products that move the numbers that matter.</p></h3>
 
-    <p>I am a Product Leader with a background in Machine Learning and Artificial Intelligence. 
-    <br>I am passionate about building products that users want, are simple to use and brings great value to business.</p>
+    <p>I am a Product Leader with 20+ years at Microsoft and Oracle, building AI and data platform products in healthcare, financial services, and energy. 
+    <br>I've owned a $125M P&L, scaled Azure AI services from zero to 1,000+ customers, and led platform strategy for analytics serving 800+ enterprise health systems. I care about products that solve real problems at real scale — not demos.</p>
     
 #EOF
