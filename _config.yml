@@ -186,7 +186,10 @@ links:
 extra_html: >
     <h3 class="fw-bold"><p>AI products that move the numbers that matter.</p></h3>
 
-    <p>I am a Product Leader with 20+ years at Microsoft and Oracle, building AI and data platform products in healthcare, financial services, and energy. 
-    <br>I've owned a $125M P&L, scaled Azure AI services from zero to 1,000+ customers, and led platform strategy for analytics serving 800+ enterprise health systems. I care about products that solve real problems at real scale — not demos.</p>
+    <p>I am a Product Leader with 20+ years at Microsoft and Oracle, 
+    <br>building AI and data platform products in healthcare, financial services, and energy. 
+    <br>I've owned a $125M P&L, scaled Azure AI services from zero to 1,000+ customers, 
+    <br>and led platform strategy for analytics serving 800+ enterprise health systems. 
+    <br>I care about products that solve real problems at real scale — not demos.</p>
     
 #EOF
